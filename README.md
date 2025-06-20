@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sivarajaram/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/sivarajaram/DSA-JAVA/tree/master/0135-candy) |
 ## Sorting
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sivarajaram/DSA-JAVA/tree/master/0013-roman-to-integer) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/sivarajaram/DSA-JAVA/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
