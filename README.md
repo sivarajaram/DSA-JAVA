@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/sivarajaram/DSA-JAVA/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/sivarajaram/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
