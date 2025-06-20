@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sivarajaram/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/sivarajaram/DSA-JAVA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sivarajaram/DSA-JAVA/tree/master/0135-candy) |
+| [0238-product-of-array-except-self](https://github.com/sivarajaram/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 ## Sorting
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/sivarajaram/DSA-JAVA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sivarajaram/DSA-JAVA/tree/master/0135-candy) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sivarajaram/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
