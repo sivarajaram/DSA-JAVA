@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sivarajaram/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/sivarajaram/DSA-JAVA/tree/master/0274-h-index) |
 | [0837-most-common-word](https://github.com/sivarajaram/DSA-JAVA/tree/master/0837-most-common-word) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sivarajaram/DSA-JAVA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/sivarajaram/DSA-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sivarajaram/DSA-JAVA/tree/master/0392-is-subsequence) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sivarajaram/DSA-JAVA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
