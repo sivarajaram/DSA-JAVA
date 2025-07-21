@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sivarajaram/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/sivarajaram/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/sivarajaram/DSA-JAVA/tree/master/0274-h-index) |
+| [0645-set-mismatch](https://github.com/sivarajaram/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/sivarajaram/DSA-JAVA/tree/master/0837-most-common-word) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sivarajaram/DSA-JAVA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sivarajaram/DSA-JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sivarajaram/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/sivarajaram/DSA-JAVA/tree/master/0274-h-index) |
+| [0645-set-mismatch](https://github.com/sivarajaram/DSA-JAVA/tree/master/0645-set-mismatch) |
 ## Trie
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivarajaram/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sivarajaram/DSA-JAVA/tree/master/0013-roman-to-integer) |
+| [0645-set-mismatch](https://github.com/sivarajaram/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/sivarajaram/DSA-JAVA/tree/master/0837-most-common-word) |
 ## Math
 |  |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivarajaram/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/sivarajaram/DSA-JAVA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
