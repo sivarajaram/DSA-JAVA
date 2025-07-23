@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sivarajaram/DSA-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sivarajaram/DSA-JAVA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/sivarajaram/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sivarajaram/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sivarajaram/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sivarajaram/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sivarajaram/DSA-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sivarajaram/DSA-JAVA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/sivarajaram/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sivarajaram/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/sivarajaram/DSA-JAVA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sivarajaram/DSA-JAVA/tree/master/0135-candy) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sivarajaram/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/sivarajaram/DSA-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sivarajaram/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sivarajaram/DSA-JAVA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/sivarajaram/DSA-JAVA/tree/master/0645-set-mismatch) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sivarajaram/DSA-JAVA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sivarajaram/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
