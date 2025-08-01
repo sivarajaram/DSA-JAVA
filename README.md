@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sivarajaram/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/sivarajaram/DSA-JAVA/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/sivarajaram/DSA-JAVA/tree/master/0645-set-mismatch) |
+| [0740-delete-and-earn](https://github.com/sivarajaram/DSA-JAVA/tree/master/0740-delete-and-earn) |
 | [0837-most-common-word](https://github.com/sivarajaram/DSA-JAVA/tree/master/0837-most-common-word) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sivarajaram/DSA-JAVA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivarajaram/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sivarajaram/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0645-set-mismatch](https://github.com/sivarajaram/DSA-JAVA/tree/master/0645-set-mismatch) |
+| [0740-delete-and-earn](https://github.com/sivarajaram/DSA-JAVA/tree/master/0740-delete-and-earn) |
 | [0837-most-common-word](https://github.com/sivarajaram/DSA-JAVA/tree/master/0837-most-common-word) |
 ## Math
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sivarajaram/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/sivarajaram/DSA-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sivarajaram/DSA-JAVA/tree/master/0392-is-subsequence) |
+| [0740-delete-and-earn](https://github.com/sivarajaram/DSA-JAVA/tree/master/0740-delete-and-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sivarajaram/DSA-JAVA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sliding Window
 |  |
